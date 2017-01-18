@@ -49,3 +49,6 @@
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/ImageCircle.Forms.Plugin.Abstractions.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/ImageCircle.Forms.Plugin.Android.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/ConferenceApp.dll
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/Neumann.ConferenceApp.apk
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/obj/Release/android/bin/Neumann.ConferenceApp.apk
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/Neumann.ConferenceApp-Signed.apk
