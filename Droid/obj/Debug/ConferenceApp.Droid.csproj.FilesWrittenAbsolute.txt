@@ -94,3 +94,6 @@
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Debug/ImageCircle.Forms.Plugin.Android.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Debug/ConferenceApp.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Debug/ConferenceApp.dll.mdb
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Debug/Neumann.ConferenceApp.apk
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/obj/Debug/android/bin/Neumann.ConferenceApp.apk
+/Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Debug/Neumann.ConferenceApp-Signed.apk

@@ -1,11 +1,43 @@
-ConferenceApp.Droid.MainActivity, ConferenceApp.Droid;md579506b6f30e877b191188d04a634d5ed.MainActivity
-ConferenceApp.Droid.MainActivity, ConferenceApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579506b6f30e877b191188d04a634d5ed.MainActivity
-ConferenceApp.Droid.MainActivity;md579506b6f30e877b191188d04a634d5ed.MainActivity
-conferenceapp.droid.MainActivity;md579506b6f30e877b191188d04a634d5ed.MainActivity
-ConferenceApp.Droid.RoundedBoxViewRenderer, ConferenceApp.Droid;md579506b6f30e877b191188d04a634d5ed.RoundedBoxViewRenderer
-ConferenceApp.Droid.RoundedBoxViewRenderer, ConferenceApp.Droid, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md579506b6f30e877b191188d04a634d5ed.RoundedBoxViewRenderer
-ConferenceApp.Droid.RoundedBoxViewRenderer;md579506b6f30e877b191188d04a634d5ed.RoundedBoxViewRenderer
-conferenceapp.droid.RoundedBoxViewRenderer;md579506b6f30e877b191188d04a634d5ed.RoundedBoxViewRenderer
+ConferenceApp.Droid.MainActivity, ConferenceApp.Droid;md58107660902e180e061b89e30e8a3fefd.MainActivity
+ConferenceApp.Droid.MainActivity, ConferenceApp.Droid, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null;md58107660902e180e061b89e30e8a3fefd.MainActivity
+ConferenceApp.Droid.MainActivity;md58107660902e180e061b89e30e8a3fefd.MainActivity
+conferenceapp.droid.MainActivity;md58107660902e180e061b89e30e8a3fefd.MainActivity
+ConferenceApp.Droid.RoundedBoxViewRenderer, ConferenceApp.Droid;md58107660902e180e061b89e30e8a3fefd.RoundedBoxViewRenderer
+ConferenceApp.Droid.RoundedBoxViewRenderer, ConferenceApp.Droid, Version=6.0.0.0, Culture=neutral, PublicKeyToken=null;md58107660902e180e061b89e30e8a3fefd.RoundedBoxViewRenderer
+ConferenceApp.Droid.RoundedBoxViewRenderer;md58107660902e180e061b89e30e8a3fefd.RoundedBoxViewRenderer
+conferenceapp.droid.RoundedBoxViewRenderer;md58107660902e180e061b89e30e8a3fefd.RoundedBoxViewRenderer
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes/IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes+IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes.IWrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes/CrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes+CrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.PlatformCrashes.CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+microsoft.azure.mobile.crashes.PlatformCrashes_CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+Microsoft.Azure.Mobile.Crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+microsoft.azure.mobile.crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
+mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
 Android.Support.V4.View.ViewPager/IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager+IOnPageChangeListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
 Android.Support.V4.View.ViewPager.IOnPageChangeListenerImplementor;mono.android.support.v4.view.ViewPager_OnPageChangeListenerImplementor
@@ -70,6 +102,22 @@ Android.Support.V4.Widget.SlidingPaneLayout/IPanelSlideListenerImplementor, Xama
 Android.Support.V4.Widget.SlidingPaneLayout+IPanelSlideListenerImplementor, Xamarin.Android.Support.v4, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
 Android.Support.V4.Widget.SlidingPaneLayout.IPanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
 mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor;mono.android.support.v4.widget.SlidingPaneLayout_PanelSlideListenerImplementor
+Android.Support.V7.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView+ItemAnimator+IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView.ItemAnimator.IItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
+Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView+IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
+mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
 Android.Support.V7.App.AlertDialog/IDialogInterfaceOnClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
 Android.Support.V7.App.AlertDialog+IDialogInterfaceOnClickListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
 Android.Support.V7.App.AlertDialog.IDialogInterfaceOnClickListenerImplementor;android.support.v7.app.AlertDialog_IDialogInterfaceOnClickListenerImplementor
@@ -142,22 +190,6 @@ Android.Support.V7.Widget.ViewStubCompat/IOnInflateListenerImplementor, Xamarin.
 Android.Support.V7.Widget.ViewStubCompat+IOnInflateListenerImplementor, Xamarin.Android.Support.v7.AppCompat, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
 Android.Support.V7.Widget.ViewStubCompat.IOnInflateListenerImplementor;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
 mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor;mono.android.support.v7.widget.ViewStubCompat_OnInflateListenerImplementor
-Android.Support.V7.Widget.RecyclerView/ItemAnimator/IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
-Android.Support.V7.Widget.RecyclerView+ItemAnimator+IItemAnimatorFinishedListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
-Android.Support.V7.Widget.RecyclerView.ItemAnimator.IItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
-mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor;mono.android.support.v7.widget.RecyclerView_ItemAnimator_ItemAnimatorFinishedListenerImplementor
-Android.Support.V7.Widget.RecyclerView/IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
-Android.Support.V7.Widget.RecyclerView+IOnChildAttachStateChangeListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
-Android.Support.V7.Widget.RecyclerView.IOnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
-mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnChildAttachStateChangeListenerImplementor
-Android.Support.V7.Widget.RecyclerView/IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
-Android.Support.V7.Widget.RecyclerView+IOnItemTouchListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
-Android.Support.V7.Widget.RecyclerView.IOnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
-mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor;mono.android.support.v7.widget.RecyclerView_OnItemTouchListenerImplementor
-Android.Support.V7.Widget.RecyclerView/IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
-Android.Support.V7.Widget.RecyclerView+IRecyclerListenerImplementor, Xamarin.Android.Support.v7.RecyclerView, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
-Android.Support.V7.Widget.RecyclerView.IRecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
-mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor;mono.android.support.v7.widget.RecyclerView_RecyclerListenerImplementor
 Android.Support.Design.Widget.Snackbar/SnackbarActionClickImplementor, Xamarin.Android.Support.Design;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar+SnackbarActionClickImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
 Android.Support.Design.Widget.Snackbar.SnackbarActionClickImplementor;android.support.design.widget.Snackbar_SnackbarActionClickImplementor
@@ -178,38 +210,6 @@ Android.Support.Design.Widget.TabLayout/IOnTabSelectedListenerImplementor, Xamar
 Android.Support.Design.Widget.TabLayout+IOnTabSelectedListenerImplementor, Xamarin.Android.Support.Design, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
 Android.Support.Design.Widget.TabLayout.IOnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
 mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor;mono.android.support.design.widget.TabLayout_OnTabSelectedListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelGroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
-mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_GroupListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Channel.IChannelListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
-mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor;mono.com.microsoft.azure.mobile.channel.Channel_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper/IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper+IListenerImplementor, Microsoft.Azure.Mobile.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Utils.NetworkStateHelper.IListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
-mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor;mono.com.microsoft.azure.mobile.utils.NetworkStateHelper_ListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes/IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes+IWrapperSdkListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.AndroidCrashes.IWrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
-mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor;mono.com.microsoft.azure.mobile.crashes.Crashes_WrapperSdkListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor, Microsoft.Azure.Mobile.Crashes.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
-Com.Microsoft.Azure.Mobile.Crashes.ICrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
-mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor;mono.com.microsoft.azure.mobile.crashes.CrashesListenerImplementor
-Microsoft.Azure.Mobile.Crashes.PlatformCrashes/CrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
-Microsoft.Azure.Mobile.Crashes.PlatformCrashes+CrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
-Microsoft.Azure.Mobile.Crashes.PlatformCrashes.CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
-microsoft.azure.mobile.crashes.PlatformCrashes_CrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.PlatformCrashes_CrashListener
-Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
-Microsoft.Azure.Mobile.Crashes.AndroidCrashListener, Microsoft.Azure.Mobile.Crashes, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
-Microsoft.Azure.Mobile.Crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
-microsoft.azure.mobile.crashes.AndroidCrashListener;md5bf7db09e0a40f5ef5da2cf34b1b37d54.AndroidCrashListener
-Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
-Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor, Microsoft.Azure.Mobile.Analytics.Android.Bindings, Version=0.0.0.0, Culture=neutral, PublicKeyToken=null;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
-Com.Microsoft.Azure.Mobile.Analytics.Channel.IAnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
-mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor;mono.com.microsoft.azure.mobile.analytics.channel.AnalyticsListenerImplementor
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter, Xamarin.Forms.Platform.Android, Version=2.0.0.0, Culture=neutral, PublicKeyToken=null;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter
 Xamarin.Forms.Platform.Android.CellAdapter;md5b60ffeb829f638581ab2bb9b1a7f4f3f.CellAdapter

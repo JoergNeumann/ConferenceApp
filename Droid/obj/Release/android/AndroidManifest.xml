@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
-<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionCode="1" android:versionName="1.0" package="Neumann.ConferenceApp">
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="6.0" package="neumann.conferenceapp" android:versionCode="6">
   <!--suppress UsesMinSdkAttributes-->
   <uses-sdk android:minSdkVersion="15" />
   <uses-permission android:name="android.permission.INTERNET" />
   <application android:label="ConferenceApp" android:icon="@drawable/icon" android:name="android.app.Application" android:allowBackup="true">
-    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Conference App" android:theme="@style/MyTheme" android:name="md579506b6f30e877b191188d04a634d5ed.MainActivity">
+    <activity android:configChanges="orientation|screenSize" android:icon="@drawable/icon" android:label="Conference App" android:theme="@style/MyTheme" android:name="md58107660902e180e061b89e30e8a3fefd.MainActivity">
       <intent-filter>
         <action android:name="android.intent.action.MAIN" />
         <category android:name="android.intent.category.LAUNCHER" />
       </intent-filter>
     </activity>
-    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="Neumann.ConferenceApp.mono.MonoRuntimeProvider.__mono_init__" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="neumann.conferenceapp.mono.MonoRuntimeProvider.__mono_init__" />
   </application>
   <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 </manifest>
