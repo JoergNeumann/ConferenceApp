@@ -7,6 +7,7 @@ using Android.Runtime;
 using Android.Views;
 using Android.Widget;
 using Android.OS;
+using Microsoft.Azure.Mobile;
 
 namespace ConferenceApp.Droid
 {
@@ -21,6 +22,7 @@ namespace ConferenceApp.Droid
 			base.OnCreate(bundle);
 
 			global::Xamarin.Forms.Forms.Init(this, bundle);
+			MobileCenter.Configure (MobileCenterAppSecret.ConferenceApp_Android);
 			ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer.Init();
 
 			LoadApplication(new App());

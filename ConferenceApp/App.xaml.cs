@@ -1,5 +1,8 @@
 ﻿using Xamarin.Forms;
 using Xamarin.Forms.Xaml;
+using Microsoft.Azure.Mobile;
+using Microsoft.Azure.Mobile.Analytics;
+using Microsoft.Azure.Mobile.Crashes;
 
 [assembly: XamlCompilation(XamlCompilationOptions.Compile)]
 namespace ConferenceApp
@@ -8,6 +11,8 @@ namespace ConferenceApp
 	{
 		public App()
 		{
+			MobileCenter.Start (typeof (Analytics), typeof (Crashes));
+
 			InitializeComponent();
 
 			var tabPage = new TabbedPage();

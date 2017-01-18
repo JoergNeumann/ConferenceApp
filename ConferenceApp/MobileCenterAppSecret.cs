@@ -1,10 +1,9 @@
 ﻿using System;
 namespace ConferenceApp
 {
-	public class MobileCenterAppSecret
+	public static class MobileCenterAppSecret
 	{
-		public MobileCenterAppSecret ()
-		{
-		}
+		public static string ConferenceApp_iOS = "";
+		public static string ConferenceApp_Android = "";
 	}
 }
