@@ -36,6 +36,11 @@
     <WarningLevel>4</WarningLevel>
     <AndroidManagedSymbols>true</AndroidManagedSymbols>
     <AndroidUseSharedRuntime>false</AndroidUseSharedRuntime>
+    <AndroidKeyStore>True</AndroidKeyStore>
+    <AndroidSigningKeyStore>/Users/administrator/Desktop/BASTA/conferenceapp.keystore</AndroidSigningKeyStore>
+    <AndroidSigningStorePass>conferenceapp</AndroidSigningStorePass>
+    <AndroidSigningKeyAlias>conferenceapp</AndroidSigningKeyAlias>
+    <AndroidSigningKeyPass>conferenceapp</AndroidSigningKeyPass>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />

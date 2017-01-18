@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{8C956510-84B3-418E-8E49-AA279EF3FDBD}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/App.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HockeyApp Status">
     <Files>
       <File FileName="ConferenceApp/App.xaml.cs" Line="15" Column="4" />
       <File FileName="iOS/AppDelegate.cs" Line="17" Column="28" />
       <File FileName="Droid/MainActivity.cs" Line="23" Column="1" />
       <File FileName="ConferenceApp/MobileCenterAppSecret.cs" Line="6" Column="24" />
       <File FileName="ConferenceApp/Pages/SpeakerDetailsPage.xaml.cs" Line="6" Column="1" />
+      <File FileName="HockeyApp Status" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
