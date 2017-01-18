@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage x:Class="ConferenceApp.SessionDetailsPage"
+			 xmlns="http://xamarin.com/schemas/2014/forms"
+			 xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+			 xmlns:local="clr-namespace:ConferenceApp;assembly=ConferenceApp"
+			 xmlns:models="clr-namespace:ConferenceApp.Models;assembly=ConferenceApp"
+			 BindingContext="{x:Static models:SessionService.SampleSession}"
+			 ControlTemplate="{StaticResource TealTemplate}"
+			 Title="{Binding Title}">
+	
+	<ContentPage.Content>
+		<ScrollView>
+		<Grid>
+			<Grid.RowDefinitions>
+				<RowDefinition Height="*" />
+				<RowDefinition Height="Auto" />
+			</Grid.RowDefinitions>
+			
+			<StackLayout>
+				<Label Text="{Binding Title}" LineBreakMode="WordWrap" Margin="10,10,0,0">
+					<Label.Font>
+						<OnPlatform x:TypeArguments="Font">
+							<OnPlatform.iOS>Medium</OnPlatform.iOS>
+							<OnPlatform.Android>Large</OnPlatform.Android>
+							<OnPlatform.WinPhone>Large</OnPlatform.WinPhone>
+						</OnPlatform>
+					</Label.Font>
+				</Label>
+				<Label Text="{Binding Speaker}" LineBreakMode="WordWrap" Margin="8,0,0,4">
+					<Label.Font>
+						<OnPlatform x:TypeArguments="Font">
+							<OnPlatform.iOS>Small</OnPlatform.iOS>
+							<OnPlatform.Android>Medium</OnPlatform.Android>
+							<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+						</OnPlatform>
+					</Label.Font>
+				</Label>
+				<Label Text="{Binding Date}" LineBreakMode="WordWrap" Margin="8,0,0,4">
+					<Label.Font>
+						<OnPlatform x:TypeArguments="Font">
+							<OnPlatform.iOS>Micro</OnPlatform.iOS>
+							<OnPlatform.Android>Medium</OnPlatform.Android>
+							<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+						</OnPlatform>
+					</Label.Font>
+				</Label>
+				<Label Text="{Binding Description}" Margin="10,0">
+					<Label.Font>
+						<OnPlatform x:TypeArguments="Font">
+							<OnPlatform.iOS>13</OnPlatform.iOS>
+							<OnPlatform.Android>Medium</OnPlatform.Android>
+							<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+						</OnPlatform>
+					</Label.Font>
+				</Label>
+				<StackLayout Orientation="Horizontal" Grid.Row="0" Padding="8,8,8,0">
+					<Label Text="Vormerken:" VerticalOptions="Center">
+						<Label.Font>
+							<OnPlatform x:TypeArguments="Font">
+								<OnPlatform.iOS>Small</OnPlatform.iOS>
+								<OnPlatform.Android>Medium</OnPlatform.Android>
+								<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+							</OnPlatform>
+						</Label.Font>
+					</Label>
+					<Switch IsToggled="false" x:Name="favoriteSwitch">
+						<Switch.Effects>
+							<local:TealSwitchEffect />
+						</Switch.Effects>
+					</Switch>
+				</StackLayout>
+				
+				<StackLayout Orientation="Horizontal" Grid.Row="1" Padding="8,10,8,8">
+					<Label Text="Bewerten:  " VerticalOptions="Center">
+						<Label.Font>
+							<OnPlatform x:TypeArguments="Font">
+								<OnPlatform.iOS>Small</OnPlatform.iOS>
+								<OnPlatform.Android>Medium</OnPlatform.Android>
+								<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+							</OnPlatform>
+						</Label.Font>
+					</Label>
+					<Slider x:Name="votingSlider" Minimum="0" Maximum="6" WidthRequest="120" VerticalOptions="Center"
+							Value="0"
+							ValueChanged="OnSliderValueChanged">
+						<Slider.Effects>
+							<local:TealSliderEffect />
+						</Slider.Effects>
+					</Slider>
+					<Label x:Name="votingLabel" VerticalOptions="Center"
+							Text="(nicht bewertet)">
+						<Label.Font>
+							<OnPlatform x:TypeArguments="Font">
+								<OnPlatform.iOS>Small</OnPlatform.iOS>
+								<OnPlatform.Android>Medium</OnPlatform.Android>
+								<OnPlatform.WinPhone>Medium</OnPlatform.WinPhone>
+							</OnPlatform>
+						</Label.Font>
+					</Label>
+				</StackLayout>
+				
+			</StackLayout>
+		</Grid>
+		</ScrollView>
+	</ContentPage.Content>
+</ContentPage>
