@@ -1,12 +1,12 @@
 ﻿<Properties StartupConfiguration="{F49A001B-B91A-4DDE-B7A2-A5DBD3BA7A6C}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HockeyApp Status">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Log">
     <Files>
-      <File FileName="ConferenceApp/App.xaml.cs" Line="14" Column="4" />
+      <File FileName="ConferenceApp/App.xaml.cs" Line="17" Column="4" />
       <File FileName="iOS/AppDelegate.cs" Line="17" Column="28" />
       <File FileName="Droid/MainActivity.cs" Line="23" Column="1" />
       <File FileName="ConferenceApp/MobileCenterAppSecret.cs" Line="6" Column="24" />
       <File FileName="ConferenceApp/Pages/SpeakerDetailsPage.xaml.cs" Line="6" Column="1" />
-      <File FileName="HockeyApp Status" />
+      <File FileName="Log" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -18,7 +18,6 @@
               </Node>
               <Node name="App.xaml" expanded="True" />
             </Node>
-            <Node name="ConferenceApp.Droid" expanded="True" />
             <Node name="ConferenceApp.iOS" expanded="True" />
           </Node>
         </State>
@@ -31,5 +30,5 @@
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ConferenceApp.Droid PreferredExecutionTarget="Android.Nexus 7 (KitKat)-2" />
-  <MonoDevelop.Ide.ItemProperties.ConferenceApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.63AA58A9-47B4-4F1E-9A4A-86160B4CFF3E" />
+  <MonoDevelop.Ide.ItemProperties.ConferenceApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.442ACBF1-346E-4D47-A6DB-E889720E3136" />
 </Properties>
