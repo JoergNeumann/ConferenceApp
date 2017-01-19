@@ -1,19 +1,19 @@
 ﻿<Properties StartupConfiguration="{8C956510-84B3-418E-8E49-AA279EF3FDBD}|Default" GitUserInfo="UsingGIT">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/MobileCenterAppSecret.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HockeyApp Status">
     <Files>
       <File FileName="ConferenceApp/Pages/FeedbackPage.xaml" Line="1" Column="1" />
       <File FileName="ConferenceApp/Pages/FeedbackPage.xaml.cs" Line="21" Column="3" />
       <File FileName="ConferenceApp/MobileCenterAppSecret.cs" Line="6" Column="81" />
+      <File FileName="HockeyApp Status" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="ConferenceApp" expanded="True">
+          <Node name="ConferenceApp" expanded="True" selected="True">
             <Node name="ConferenceApp" expanded="True">
               <Node name="Pages" expanded="True">
                 <Node name="FeedbackPage.xaml" expanded="True" />
               </Node>
-              <Node name="MobileCenterAppSecret.cs" selected="True" />
             </Node>
           </Node>
         </State>
