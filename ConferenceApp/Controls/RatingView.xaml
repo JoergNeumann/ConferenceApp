@@ -56,7 +56,7 @@
 						</Style>
 					</ResourceDictionary>
 				</StackLayout.Resources>
-				<Label Text="{Binding Source={x:Reference starFive}, Path=Rating, Converter={StaticResource ratingConverter}}"/>
+				<Label x:Name="ratingLabel" Text="{Binding Source={x:Reference starFive}, Path=Rating, Converter={StaticResource ratingConverter}}"/>
 			</StackLayout>
 		</StackLayout>
 	</ContentView.Content>

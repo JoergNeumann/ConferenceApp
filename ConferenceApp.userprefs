@@ -1,19 +1,22 @@
 ﻿<Properties StartupConfiguration="{F49A001B-B91A-4DDE-B7A2-A5DBD3BA7A6C}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp.iOS.Test/Tests.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/Pages/FeedbackPage.xaml.cs">
     <Files>
-      <File FileName="ConferenceApp.iOS.Test/Tests.cs" Line="14" Column="14" />
-      <File FileName="ConferenceApp.iOS.Test/UITests.cs" Line="15" Column="156" />
-      <File FileName="iOS/AppDelegate.cs" Line="18" Column="4" />
+      <File FileName="ConferenceApp/Pages/FeedbackPage.xaml.cs" Line="22" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="ConferenceApp" expanded="True">
+            <Node name="ConferenceApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="FeedbackPage.xaml" expanded="True">
+                  <Node name="FeedbackPage.xaml.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
             <Node name="ConferenceApp.iOS" expanded="True" />
             <Node name="ConferenceApp.iOS.Test" expanded="True">
-              <Node name="Packages" expanded="True">
-                <Node name="NUnit" selected="True" />
-              </Node>
+              <Node name="Packages" expanded="True" />
             </Node>
           </Node>
         </State>
@@ -29,9 +32,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/administrator/Desktop/BASTA/HockeyApp/ConferenceApp.iOS.Test/Tests.cs" line="35" column="1" />
-    </BreakpointStore>
+    <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.ConferenceApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3D499EE3-DA14-40B5-8620-96D3CA57C6D6" />

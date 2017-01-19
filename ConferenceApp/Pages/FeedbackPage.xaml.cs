@@ -1,6 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
-
+using Microsoft.Azure.Mobile.Analytics;
 using Xamarin.Forms;
 
 namespace ConferenceApp
@@ -15,8 +15,16 @@ namespace ConferenceApp
 		private async void OnSubmitButtonClicked(object sender, EventArgs e)
 		{
 			await this.DisplayAlert("Danke!", "Dein Feedback wurde gesendet!", "OK");
-			var a = 0;
-			var b = 1 / a;
+
+			// Custom analytics event auslösen
+			Analytics.TrackEvent ("Feedback button clicked", new Dictionary<string, string> {
+				{ "Category", "Feedback" },
+				{ "Vote", this.ratingView.Rating.ToString() }
+			});
+
+			// Exception auslösen
+			//var a = 0;
+			//var b = 1 / a;
 		}
 	}
 }

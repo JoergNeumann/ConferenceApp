@@ -96,7 +96,7 @@
 		
 		<Label Text="Bewerten Sie die Konferenz!" Margin="0,10,0,0" />
 
-		<local:RatingView/>
+		<local:RatingView x:Name="ratingView"/>
 
 		<Button Text="Senden" Clicked="OnSubmitButtonClicked" />
 		

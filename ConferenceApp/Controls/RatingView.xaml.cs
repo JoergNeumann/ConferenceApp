@@ -10,5 +10,16 @@ namespace ConferenceApp
 		{
 			InitializeComponent();
 		}
+
+		public string Vote
+		{
+			get { return this.ratingLabel.Text; }
+		}
+
+		public int Rating
+		{
+			get { return this.starFive.Rating; }
+		}
+
 	}
 }

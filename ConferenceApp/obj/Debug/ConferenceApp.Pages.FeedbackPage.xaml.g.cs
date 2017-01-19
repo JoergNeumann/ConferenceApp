@@ -32,6 +32,9 @@ namespace ConferenceApp {
         private global::Xamarin.Forms.Image ageSuccessErrorImage;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::ConferenceApp.RatingView ratingView;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(FeedbackPage));
             rbv = this.FindByName <global::ConferenceApp.RoundedBoxView>("rbv");
@@ -39,6 +42,7 @@ namespace ConferenceApp {
             emailSuccessErrorImage = this.FindByName <global::Xamarin.Forms.Image>("emailSuccessErrorImage");
             ageValidator = this.FindByName <global::ConferenceApp.NumberValidatorBehavior>("ageValidator");
             ageSuccessErrorImage = this.FindByName <global::Xamarin.Forms.Image>("ageSuccessErrorImage");
+            ratingView = this.FindByName <global::ConferenceApp.RatingView>("ratingView");
         }
     }
 }

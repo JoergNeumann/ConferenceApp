@@ -13,6 +13,7 @@ namespace ConferenceApp
 		{
 			// Analytics & Crash Reporting konfigurieren
 			MobileCenter.Start (typeof (Analytics), typeof (Crashes));
+			Analytics.Enabled = true;
 
 			InitializeComponent();
 
