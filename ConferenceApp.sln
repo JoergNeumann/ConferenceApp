@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApp.Droid", "Droi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApp.iOS.Test", "ConferenceApp.iOS.Test\ConferenceApp.iOS.Test.csproj", "{93911AE0-44A9-4F4A-A55E-71D4DAD71A53}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConferenceApp.Droid.Test", "ConferenceApp.Droid.Test\ConferenceApp.Droid.Test.csproj", "{0715A142-4BAF-430E-9300-7165D6E82FF4}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,18 @@ Global
 		{93911AE0-44A9-4F4A-A55E-71D4DAD71A53}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
 		{93911AE0-44A9-4F4A-A55E-71D4DAD71A53}.Debug|iPhone.ActiveCfg = Debug|Any CPU
 		{93911AE0-44A9-4F4A-A55E-71D4DAD71A53}.Debug|iPhone.Build.0 = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|iPhoneSimulator.ActiveCfg = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|iPhoneSimulator.Build.0 = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|iPhone.ActiveCfg = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|iPhone.Build.0 = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|iPhoneSimulator.ActiveCfg = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Release|iPhoneSimulator.Build.0 = Release|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|iPhone.ActiveCfg = Debug|Any CPU
+		{0715A142-4BAF-430E-9300-7165D6E82FF4}.Debug|iPhone.Build.0 = Debug|Any CPU
 	EndGlobalSection
 	GlobalSection(MonoDevelopProperties) = preSolution
 		Policies = $0
