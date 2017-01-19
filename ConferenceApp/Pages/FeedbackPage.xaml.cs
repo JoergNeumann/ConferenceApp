@@ -15,6 +15,8 @@ namespace ConferenceApp
 		private async void OnSubmitButtonClicked(object sender, EventArgs e)
 		{
 			await this.DisplayAlert("Danke!", "Dein Feedback wurde gesendet!", "OK");
+			var a = 0;
+			var b = 1 / a;
 		}
 	}
 }

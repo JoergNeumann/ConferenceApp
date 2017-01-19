@@ -22,7 +22,10 @@ namespace ConferenceApp.Droid
 			base.OnCreate(bundle);
 
 			global::Xamarin.Forms.Forms.Init(this, bundle);
+
+			// App bei Mobile Center registrieren
 			MobileCenter.Configure (MobileCenterAppSecret.ConferenceApp_Android);
+
 			ImageCircle.Forms.Plugin.Droid.ImageCircleRenderer.Init();
 
 			LoadApplication(new App());
