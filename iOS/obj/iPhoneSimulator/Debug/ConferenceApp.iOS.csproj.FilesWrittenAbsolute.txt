@@ -38,3 +38,4 @@
 /Users/administrator/Desktop/BASTA/HockeyApp/iOS/bin/iPhoneSimulator/Debug/ImageCircle.Forms.Plugin.iOS.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/iOS/bin/iPhoneSimulator/Debug/ConferenceApp.dll
 /Users/administrator/Desktop/BASTA/HockeyApp/iOS/bin/iPhoneSimulator/Debug/ConferenceApp.dll.mdb
+/Users/administrator/Desktop/BASTA/HockeyApp/iOS/bin/iPhoneSimulator/Debug/Calabash.dll

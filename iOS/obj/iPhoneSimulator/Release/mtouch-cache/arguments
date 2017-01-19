@@ -53,6 +53,8 @@
 	-r \
 	/Users/administrator/Desktop/BASTA/HockeyApp/packages/Xam.Plugins.Forms.ImageCircle.1.8.1/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.iOS.dll \
 	-r \
+	/Users/administrator/Desktop/BASTA/HockeyApp/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
+	-r \
 	/Users/administrator/Desktop/BASTA/HockeyApp/ConferenceApp/bin/Release/ConferenceApp.dll \
 	-r \
 	/Library/Frameworks/Xamarin.iOS.framework/Versions/Current/lib/mono/Xamarin.iOS/mscorlib.dll \
@@ -336,6 +338,8 @@
 	/Users/administrator/Desktop/BASTA/HockeyApp/packages/Xam.Plugins.Forms.ImageCircle.1.8.1/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.Abstractions.dll \
 	-r \
 	/Users/administrator/Desktop/BASTA/HockeyApp/packages/Xam.Plugins.Forms.ImageCircle.1.8.1/lib/Xamarin.iOS10/ImageCircle.Forms.Plugin.iOS.dll \
+	-r \
+	/Users/administrator/Desktop/BASTA/HockeyApp/packages/Xamarin.TestCloud.Agent.0.20.3/lib/Xamarin.iOS10/Calabash.dll \
 	-r \
 	/Users/administrator/Desktop/BASTA/HockeyApp/ConferenceApp/bin/Release/ConferenceApp.dll \
 	--target-framework \

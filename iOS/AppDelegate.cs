@@ -15,6 +15,10 @@ namespace ConferenceApp.iOS
 		{
 			global::Xamarin.Forms.Forms.Init();
 
+			#if ENABLE_TEST_CLOUD
+			Xamarin.Calabash.Start();
+			#endif
+
 			// App bei Mobile Center registrieren
 			MobileCenter.Configure (MobileCenterAppSecret.ConferenceApp_iOS);
 
