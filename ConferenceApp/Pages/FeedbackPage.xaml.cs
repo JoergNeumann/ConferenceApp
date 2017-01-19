@@ -19,7 +19,7 @@ namespace ConferenceApp
 			// Custom analytics event auslösen
 			Analytics.TrackEvent ("Feedback button clicked", new Dictionary<string, string> {
 				{ "Category", "Feedback" },
-				{ "Vote", this.ratingView.Vote }
+				{ "Vote", "5" } //this.ratingView.Vote
 			});
 
 			// Exception auslösen
