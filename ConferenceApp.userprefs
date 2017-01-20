@@ -1,9 +1,11 @@
-﻿<Properties StartupConfiguration="{8C956510-84B3-418E-8E49-AA279EF3FDBD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="HockeyApp Status">
+﻿<Properties StartupConfiguration="{F49A001B-B91A-4DDE-B7A2-A5DBD3BA7A6C}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/Models/SessionService.cs">
     <Files>
       <File FileName="ConferenceApp.Droid.Test/Tests.cs" Line="27" Column="20" />
-      <File FileName="ConferenceApp.Droid.Test/UITests.cs" Line="23" Column="10" />
+      <File FileName="ConferenceApp.Droid.Test/UITests.cs" Line="31" Column="46" />
       <File FileName="HockeyApp Status" />
+      <File FileName="ConferenceApp/Models/Session.cs" Line="1" Column="1" />
+      <File FileName="ConferenceApp/Models/SessionService.cs" Line="22" Column="36" />
     </Files>
     <Pads>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
