@@ -3,7 +3,7 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{0715A142-4BAF-430E-9300-7165D6E82FF4}</ProjectGuid>
+    <ProjectGuid>{BA918C86-5507-4BAE-BDA5-C79EF96D081F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <RootNamespace>ConferenceApp.Droid.Test</RootNamespace>
     <AssemblyName>ConferenceApp.Droid.Test</AssemblyName>
@@ -35,9 +35,18 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Tests.cs" />
+    <Compile Include="UITests.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Droid\ConferenceApp.Droid.csproj">
+      <Project>{8C956510-84B3-418E-8E49-AA279EF3FDBD}</Project>
+      <Name>ConferenceApp.Droid</Name>
+      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
+      <Private>False</Private>
+    </ProjectReference>
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

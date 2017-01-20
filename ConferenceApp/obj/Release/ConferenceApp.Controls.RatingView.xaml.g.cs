@@ -62,6 +62,9 @@ namespace ConferenceApp {
         private global::Xamarin.Forms.Image starSelectedFive;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Label ratingLabel;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(RatingView));
             starOne = this.FindByName <global::ConferenceApp.StarBehavior>("starOne");
@@ -79,6 +82,7 @@ namespace ConferenceApp {
             starFive = this.FindByName <global::ConferenceApp.StarBehavior>("starFive");
             starBlankFive = this.FindByName <global::Xamarin.Forms.Image>("starBlankFive");
             starSelectedFive = this.FindByName <global::Xamarin.Forms.Image>("starSelectedFive");
+            ratingLabel = this.FindByName <global::Xamarin.Forms.Label>("ratingLabel");
         }
     }
 }

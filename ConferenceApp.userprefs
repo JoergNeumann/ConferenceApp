@@ -1,43 +1,15 @@
 ﻿<Properties StartupConfiguration="{8C956510-84B3-418E-8E49-AA279EF3FDBD}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/Controls/RatingView.xaml.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HockeyApp Status">
     <Files>
-      <File FileName="ConferenceApp/Pages/FeedbackPage.xaml.cs" Line="24" Column="4" />
-      <File FileName="ConferenceApp.iOS.Test/UITests.cs" Line="17" Column="18" />
-      <File FileName="ConferenceApp/App.xaml.cs" Line="17" Column="4" />
+      <File FileName="ConferenceApp.Droid.Test/Tests.cs" Line="27" Column="20" />
+      <File FileName="ConferenceApp.Droid.Test/UITests.cs" Line="23" Column="10" />
       <File FileName="HockeyApp Status" />
-      <File FileName="ConferenceApp/Pages/FeedbackPage.xaml" Line="101" Column="59" />
-      <File FileName="ConferenceApp/Controls/RatingView.xaml.cs" Line="22" Column="4" />
     </Files>
     <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="ConferenceApp" expanded="True">
-            <Node name="ConferenceApp" expanded="True">
-              <Node name="Controls" expanded="True">
-                <Node name="RatingView.xaml" expanded="True">
-                  <Node name="RatingView.xaml.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="FeedbackPage.xaml" expanded="True" />
-              </Node>
-              <Node name="App.xaml" expanded="True" />
-            </Node>
-            <Node name="ConferenceApp.Droid" expanded="True" />
-            <Node name="ConferenceApp.Droid.Test" expanded="True">
-              <Node name="References" expanded="True" />
-              <Node name="Packages" expanded="True" />
-            </Node>
-            <Node name="ConferenceApp.iOS.Test" expanded="True">
-              <Node name="Packages" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="ConferenceApp" expanded="True">
-            <Node name="ConferenceApp.iOS.Test" expanded="True" selected="True" />
+            <Node name="ConferenceApp.Droid.Test" expanded="True" selected="True" />
           </Node>
         </State>
       </Pad>
