@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" android:versionName="6.0" package="neumann.conferenceapp" android:versionCode="6">
+	<uses-sdk android:minSdkVersion="15" />
+	<uses-permission android:name="android.permission.INTERNET" />
+	<application android:label="ConferenceApp" android:icon="@drawable/icon"></application>
+</manifest>
