@@ -6,7 +6,7 @@
 	<dict>
 		<key>output-files</key>
 		<array>
-			<string>/Users/administrator/Desktop/BASTA/HockeyApp/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
+			<string>/Users/administrator/Desktop/BASTA/MobileCenter/Demo/iOS/obj/iPhoneSimulator/Release/actool/partial-info.plist</string>
 		</array>
 	</dict>
 </dict>

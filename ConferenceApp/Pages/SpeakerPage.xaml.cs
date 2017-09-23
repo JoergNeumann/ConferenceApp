@@ -11,11 +11,11 @@ namespace ConferenceApp
 		{
 			InitializeComponent();
 
-			if (Device.OS == TargetPlatform.WinPhone)
+			if (Device.RuntimePlatform == Device.WinPhone)
 			{
 				this.listView.RowHeight = 60;
 			}
-			else if (Device.OS == TargetPlatform.Android)
+			else if (Device.RuntimePlatform == Device.Android)
 			{
 				this.listView.RowHeight = 60;
 			}

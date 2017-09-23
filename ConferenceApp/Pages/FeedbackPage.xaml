@@ -63,7 +63,7 @@
 		                          Stroke="Teal" StrokeThickness="1" HasShadow="false"
 		                          CornerRadius="10" Color="#009688"/>
 
-			<Entry Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" Placeholder="E-Mail"
+			<Entry x:Name="mailAdressEntry" Grid.Row="1" Grid.Column="1" Margin="10,0,0,0" Placeholder="E-Mail"
 				   Style="{StaticResource EntryStyle}">
 				<Entry.Behaviors>
 					<local:EmailValidatorBehavior x:Name="emailValidator" />

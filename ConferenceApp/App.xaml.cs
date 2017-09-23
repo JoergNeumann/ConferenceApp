@@ -13,7 +13,6 @@ namespace ConferenceApp
 		{
 			// Analytics & Crash Reporting konfigurieren
 			MobileCenter.Start (typeof (Analytics), typeof (Crashes));
-			Analytics.Enabled = true;
 
 			InitializeComponent();
 
@@ -24,11 +23,12 @@ namespace ConferenceApp
 			tabPage.Children.Add(new FavoritesPage() { Icon = "favorites.png" });
 			tabPage.Children.Add(new FeedbackPage() { Icon = "Feedback.png" });
 			MainPage = new NavigationPage(tabPage);
+
 		}
 
-		protected override void OnStart()
+		protected async override void OnStart()
 		{
-			// Handle when your app starts
+			await Analytics.IsEnabledAsync();
 		}
 
 		protected override void OnSleep()

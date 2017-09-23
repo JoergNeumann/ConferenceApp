@@ -15,7 +15,7 @@ namespace ConferenceApp.Droid.Test
             app = ConfigureApp
 				.Android
 				.StartApp ();
-			//app = ConfigureApp.Android.ApkFile("/Users/administrator/Desktop/BASTA/HockeyApp/Droid/bin/Release/neumann.conferenceapp.apk").StartApp();
+			//app = ConfigureApp.Android.ApkFile("/Users/administrator/Desktop/neumann.conferenceapp.apk").StartApp();
         }
 
         [Test]

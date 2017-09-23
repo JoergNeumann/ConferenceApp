@@ -21,8 +21,8 @@ namespace ConferenceApp.iOS.Test
         [Test]
         public void NewTest()
         {
-            app.Tap(x => x.Marked("Moderne Businessanwendungen mit HTML5, Angular 2 und Co."));
-            app.Screenshot("Tapped on view with class: UILabel marked: Moderne Businessanwendungen mit HTML5, Angular 2 und Co.");
+            app.Tap(x => x.Marked(".NET-Programmierer und Architekten: Strategien 2017"));
+            app.Screenshot("Tapped on view with class: UILabel marked: .NET-Programmierer und Architekten: Strategien 2017");
             app.Tap(x => x.Class("UISwitch"));
             app.Screenshot("Tapped on view with class: UISwitch");
             app.SetSliderValue(x => x.Class("UISlider"), 6000000);
@@ -42,7 +42,7 @@ namespace ConferenceApp.iOS.Test
             //app.Screenshot("Tapped on view with class: UIImageView");
             app.Tap(x => x.Marked("E-Mail"));
             app.Screenshot("Tapped on view with class: UITextFieldLabel marked: E-Mail");
-            app.EnterText(x => x.Class("UITextField"), "Joerneumann@acando.de");
+            app.EnterText(x => x.Class("UITextField"), "Joergneumann@acando.de");
             app.Tap(x => x.Marked("Alter"));
             app.Screenshot("Tapped on view with class: UITextFieldLabel marked: Alter");
             app.EnterText(x => x.Class("UITextField").Index(1), "45");
