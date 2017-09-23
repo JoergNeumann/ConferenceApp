@@ -1,13 +1,33 @@
+<<<<<<< HEAD
 ﻿<Properties StartupConfiguration="{8C956510-84B3-418E-8E49-AA279EF3FDBD}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="ConferenceApp/App.xaml.cs">
     <Files>
       <File FileName="ConferenceApp/App.xaml.cs" Line="26" Column="13" />
     </Files>
+=======
+﻿<Properties StartupConfiguration="{F49A001B-B91A-4DDE-B7A2-A5DBD3BA7A6C}|Default">
+  <MonoDevelop.Ide.Workbench>
+>>>>>>> origin/master
     <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ConferenceApp" expanded="True">
+            <Node name="ConferenceApp.iOS" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
       <Pad Id="MonoDevelop.UnitTesting.TestPad">
         <State name="__root__">
           <Node name="ConferenceApp" expanded="True">
+<<<<<<< HEAD
             <Node name="ConferenceApp.iOS.Test" expanded="True" selected="True" />
+=======
+            <Node name="ConferenceApp.iOS.Test" expanded="True" selected="True">
+              <Node name="ConferenceApp" expanded="True">
+                <Node name="iOS" expanded="True" />
+              </Node>
+            </Node>
+>>>>>>> origin/master
           </Node>
         </State>
       </Pad>
@@ -18,8 +38,13 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+<<<<<<< HEAD
   <MonoDevelop.Ide.ItemProperties.ConferenceApp.Droid PreferredExecutionTarget="Android.HAXM" />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.ItemProperties.ConferenceApp.Droid.Test PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.ItemProperties.ConferenceApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.252AD47B-FD3B-4859-9775-841E112B5E9C" />
+=======
+  <MonoDevelop.Ide.ItemProperties.ConferenceApp.Droid PreferredExecutionTarget="Android.Nexus 4 (Lollipop)" />
+  <MonoDevelop.Ide.ItemProperties.ConferenceApp.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.3D499EE3-DA14-40B5-8620-96D3CA57C6D6" />
+>>>>>>> origin/master
 </Properties>
