@@ -30,6 +30,7 @@ Resource.designer.cs
 bld/
 [Bb]in/
 [Oo]bj/
+/packages/
 
 # Crash Reporter Frameworks
 CrashReporter.framework/
